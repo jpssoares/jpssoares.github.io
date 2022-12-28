@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>J.P.Soares</title>
+    <title>J. P. Soares</title>
     <link>https://jpssoares.github.io/</link>
-    <description>Recent content on J.P.Soares</description>
+    <description>Recent content on J. P. Soares</description>
     <image>
       <url>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -49,6 +49,7 @@ https://www.engadget.com/snap-q4-2021-earnings-230605242.html Why gamers hate cr
 To help achieve this, I created a python script that automaticly create a post with some template text.
 import datetime import calendar import os def getSundayDate(weekday, date): switcher = { &amp;#34;Monday&amp;#34;: 1, &amp;#34;Tuesday&amp;#34;: 2, &amp;#34;Wednesday&amp;#34;: 3, &amp;#34;Thursday&amp;#34;: 4, &amp;#34;Friday&amp;#34;: 5, &amp;#34;Saturday&amp;#34;: 6, &amp;#34;Sunday&amp;#34;: 0 } difference = switcher.</description>
     </item>
+    
     
   </channel>
 </rss>
