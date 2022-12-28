@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Python on ExampleSite</title>
-    <link>https://examplesite.com/tags/python/</link>
-    <description>Recent content in Python on ExampleSite</description>
+    <title>Python on J.P.Soares</title>
+    <link>https://jpssoares.github.io/tags/python/</link>
+    <description>Recent content in Python on J.P.Soares</description>
     <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Oct 2021 17:07:58 +0100</lastBuildDate><atom:link href="https://examplesite.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Oct 2021 17:07:58 +0100</lastBuildDate><atom:link href="https://jpssoares.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weekly Rundown 1 (24 October_30 October)</title>
-      <link>https://examplesite.com/posts/weekly1/</link>
+      <link>https://jpssoares.github.io/posts/weekly1/</link>
       <pubDate>Wed, 27 Oct 2021 17:07:58 +0100</pubDate>
       
-      <guid>https://examplesite.com/posts/weekly1/</guid>
+      <guid>https://jpssoares.github.io/posts/weekly1/</guid>
       <description>What have I been up to? I decided to start this new project where I write about all the cool stuff that happened each week. I will try to post one of these everyweek, starting now (last week of October 2021).
 To help achieve this, I created a python script that automaticly create a post with some template text.
 import datetime import calendar import os def getSundayDate(weekday, date): switcher = { &amp;#34;Monday&amp;#34;: 1, &amp;#34;Tuesday&amp;#34;: 2, &amp;#34;Wednesday&amp;#34;: 3, &amp;#34;Thursday&amp;#34;: 4, &amp;#34;Friday&amp;#34;: 5, &amp;#34;Saturday&amp;#34;: 6, &amp;#34;Sunday&amp;#34;: 0 } difference = switcher.</description>

@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Weekly on ExampleSite</title>
-    <link>https://examplesite.com/tags/weekly/</link>
-    <description>Recent content in Weekly on ExampleSite</description>
+    <title>Weekly on J.P.Soares</title>
+    <link>https://jpssoares.github.io/tags/weekly/</link>
+    <description>Recent content in Weekly on J.P.Soares</description>
     <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Oct 2021 17:07:58 +0100</lastBuildDate><atom:link href="https://examplesite.com/tags/weekly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Feb 2022 17:28:10 +0000</lastBuildDate><atom:link href="https://jpssoares.github.io/tags/weekly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly Rundown 4 (6 February_12 February) </title>
+      <link>https://jpssoares.github.io/posts/weekly4/</link>
+      <pubDate>Tue, 08 Feb 2022 17:28:10 +0000</pubDate>
+      
+      <guid>https://jpssoares.github.io/posts/weekly4/</guid>
+      <description>Curated selection Intresting articles Snap is finally profitable Snapchat has more users than ever. Nearly five years after going public, Snap is finally profitable. The company shared the milestone in its fourth-quarter earnings release, where it reported $23 million in positive net income.
+https://www.engadget.com/snap-q4-2021-earnings-230605242.html Why gamers hate crypto, and music fans don’t The very different reactions that two different types of fandoms are having to blockchain-based products — and whether that tells us anything about what average people might actually want out of crypto.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Rundown 2 (21 November_27 November)</title>
+      <link>https://jpssoares.github.io/posts/weekly2/</link>
+      <pubDate>Tue, 23 Nov 2021 09:56:44 +0000</pubDate>
+      
+      <guid>https://jpssoares.github.io/posts/weekly2/</guid>
+      <description>What have I been up to? This past month has been a lot of work. Having done tests on all my different classes and also many different team projects, I can say that November has been tough. Despite all I said, I think that this year has been the least stressful of my 3-year journey at university. I think I have adapted quite well to this lifestyle, and if I keep my pace, I think I&amp;rsquo;ll do fine.</description>
+    </item>
+    
     <item>
       <title>Weekly Rundown 1 (24 October_30 October)</title>
-      <link>https://examplesite.com/posts/weekly1/</link>
+      <link>https://jpssoares.github.io/posts/weekly1/</link>
       <pubDate>Wed, 27 Oct 2021 17:07:58 +0100</pubDate>
       
-      <guid>https://examplesite.com/posts/weekly1/</guid>
+      <guid>https://jpssoares.github.io/posts/weekly1/</guid>
       <description>What have I been up to? I decided to start this new project where I write about all the cool stuff that happened each week. I will try to post one of these everyweek, starting now (last week of October 2021).
 To help achieve this, I created a python script that automaticly create a post with some template text.
 import datetime import calendar import os def getSundayDate(weekday, date): switcher = { &amp;#34;Monday&amp;#34;: 1, &amp;#34;Tuesday&amp;#34;: 2, &amp;#34;Wednesday&amp;#34;: 3, &amp;#34;Thursday&amp;#34;: 4, &amp;#34;Friday&amp;#34;: 5, &amp;#34;Saturday&amp;#34;: 6, &amp;#34;Sunday&amp;#34;: 0 } difference = switcher.</description>

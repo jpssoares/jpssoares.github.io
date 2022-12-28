@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WebGL on J.P.Soares</title>
+    <link>https://jpssoares.github.io/tags/webgl/</link>
+    <description>Recent content in WebGL on J.P.Soares</description>
+    <image>
+      <url>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 23 Nov 2021 09:56:44 +0000</lastBuildDate><atom:link href="https://jpssoares.github.io/tags/webgl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly Rundown 2 (21 November_27 November)</title>
+      <link>https://jpssoares.github.io/posts/weekly2/</link>
+      <pubDate>Tue, 23 Nov 2021 09:56:44 +0000</pubDate>
+      
+      <guid>https://jpssoares.github.io/posts/weekly2/</guid>
+      <description>What have I been up to? This past month has been a lot of work. Having done tests on all my different classes and also many different team projects, I can say that November has been tough. Despite all I said, I think that this year has been the least stressful of my 3-year journey at university. I think I have adapted quite well to this lifestyle, and if I keep my pace, I think I&amp;rsquo;ll do fine.</description>
+    </item>
+    
+  </channel>
+</rss>

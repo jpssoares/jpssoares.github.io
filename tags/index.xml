@@ -1,30 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on ExampleSite</title>
-    <link>https://examplesite.com/tags/</link>
-    <description>Recent content in Tags on ExampleSite</description>
+    <title>Tags on J.P.Soares</title>
+    <link>https://jpssoares.github.io/tags/</link>
+    <description>Recent content in Tags on J.P.Soares</description>
     <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Oct 2021 17:07:58 +0100</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Feb 2022 17:28:10 +0000</lastBuildDate><atom:link href="https://jpssoares.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Python</title>
-      <link>https://examplesite.com/tags/python/</link>
-      <pubDate>Wed, 27 Oct 2021 17:07:58 +0100</pubDate>
+      <title>NFT</title>
+      <link>https://jpssoares.github.io/tags/nft/</link>
+      <pubDate>Tue, 08 Feb 2022 17:28:10 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/python/</guid>
+      <guid>https://jpssoares.github.io/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startup</title>
+      <link>https://jpssoares.github.io/tags/startup/</link>
+      <pubDate>Tue, 08 Feb 2022 17:28:10 +0000</pubDate>
+      
+      <guid>https://jpssoares.github.io/tags/startup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weekly</title>
-      <link>https://examplesite.com/tags/weekly/</link>
+      <link>https://jpssoares.github.io/tags/weekly/</link>
+      <pubDate>Tue, 08 Feb 2022 17:28:10 +0000</pubDate>
+      
+      <guid>https://jpssoares.github.io/tags/weekly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://jpssoares.github.io/tags/html/</link>
+      <pubDate>Tue, 23 Nov 2021 09:56:44 +0000</pubDate>
+      
+      <guid>https://jpssoares.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://jpssoares.github.io/tags/javascript/</link>
+      <pubDate>Tue, 23 Nov 2021 09:56:44 +0000</pubDate>
+      
+      <guid>https://jpssoares.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebGL</title>
+      <link>https://jpssoares.github.io/tags/webgl/</link>
+      <pubDate>Tue, 23 Nov 2021 09:56:44 +0000</pubDate>
+      
+      <guid>https://jpssoares.github.io/tags/webgl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://jpssoares.github.io/tags/python/</link>
       <pubDate>Wed, 27 Oct 2021 17:07:58 +0100</pubDate>
       
-      <guid>https://examplesite.com/tags/weekly/</guid>
+      <guid>https://jpssoares.github.io/tags/python/</guid>
       <description></description>
     </item>
     
