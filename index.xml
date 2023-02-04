@@ -16,8 +16,10 @@
       <pubDate>Tue, 01 Feb 2022 17:28:10 +0000</pubDate>
       
       <guid>https://jpssoares.github.io/posts/weekly4/</guid>
-      <description>What have I been up to? After a lot of hard work, I’ve finished this semester. Instead of just sitting around, I decided to take the rest of the time I have left before I get back to studying to work on my Linkedin profile and Github contributions, since there isn’t enough time for me to look for a internship.
-Things to look forward to Last semester, I tried for the first time to study using only digital notes, and it worked out really great.</description>
+      <description>Curated selection Intresting articles Facebook loses users for first time ever, market cap drops by $200 billion Meta’s earnings call revealed bad news buried within bad news. The market did not react kindly to the news. Meta’s stock has taken a massive hit and is currently trading down around 24 percent below yesterday’s close, wiping around $200 billion off its market cap.
+https://arstechnica.com/tech-policy/2022/02/facebook-loses-users-for-first-time-ever-market-cap-drops-by-200b/
+Article photo
+In the Joe Rogan debate, Spotify is acting like a spectator rather than a player In many ways, what Spotify is grappling with right now is the same thing social media platforms like Facebook and Twitter have had to confront over the last five years.</description>
     </item>
     
     <item>
@@ -36,7 +38,10 @@ https://www.engadget.com/snap-q4-2021-earnings-230605242.html Why gamers hate cr
       <pubDate>Tue, 23 Nov 2021 09:56:44 +0000</pubDate>
       
       <guid>https://jpssoares.github.io/posts/weekly2/</guid>
-      <description>What have I been up to? This past month has been a lot of work. Having done tests on all my different classes and also many different team projects, I can say that November has been tough. Despite all I said, I think that this year has been the least stressful of my 3-year journey at university. I think I have adapted quite well to this lifestyle, and if I keep my pace, I think I&amp;rsquo;ll do fine.</description>
+      <description>Curated selection Inspiring videos Can GitHub Copilot center a div?
+A honest overview of the new and revolutionary technology created by Github to help programmers code using AI.
+I Put the Dislike Count BACK on my Channel
+&amp;ldquo;I&amp;rsquo;m not a fan of YouTube removing the dislike count from all videos, so I decided to put the discount like back on my own channel with a little bit of code&amp;rdquo;</description>
     </item>
     
     <item>
@@ -45,9 +50,10 @@ https://www.engadget.com/snap-q4-2021-earnings-230605242.html Why gamers hate cr
       <pubDate>Wed, 27 Oct 2021 17:07:58 +0100</pubDate>
       
       <guid>https://jpssoares.github.io/posts/weekly1/</guid>
-      <description>What have I been up to? I decided to start this new project where I write about all the cool stuff that happened each week. I will try to post one of these everyweek, starting now (last week of October 2021).
-To help achieve this, I created a python script that automaticly create a post with some template text.
-import datetime import calendar import os def getSundayDate(weekday, date): switcher = { &amp;#34;Monday&amp;#34;: 1, &amp;#34;Tuesday&amp;#34;: 2, &amp;#34;Wednesday&amp;#34;: 3, &amp;#34;Thursday&amp;#34;: 4, &amp;#34;Friday&amp;#34;: 5, &amp;#34;Saturday&amp;#34;: 6, &amp;#34;Sunday&amp;#34;: 0 } difference = switcher.</description>
+      <description>Curated selection Intresting articles When it comes to solar farms, sheep are great groundskeepers USDA funds project to build new group in support of solar grazing. https://arstechnica.com/science/2021/10/shepherds-can-cash-in-on-their-sheep-grazing-around-solar-panels/
+Bounty hunter Spike Spiegel is back on the hunt in Cowboy Bebop trailer &amp;ldquo;If the cops and the bounty hunters don&amp;rsquo;t get you, the Syndicate will.&amp;rdquo; https://arstechnica.com/gaming/2021/10/a-trio-of-space-cowboys-saddle-up-for-adventure-in-official-cowboy-bebop-trailer/
+Inspiring videos Joma Tech - 10 years of coding in 13 minutes
+Joma Tech is a really funny youtuber that makes content about tech and programming.</description>
     </item>
     
     <item>

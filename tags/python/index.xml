@@ -16,9 +16,10 @@
       <pubDate>Wed, 27 Oct 2021 17:07:58 +0100</pubDate>
       
       <guid>https://jpssoares.github.io/posts/weekly1/</guid>
-      <description>What have I been up to? I decided to start this new project where I write about all the cool stuff that happened each week. I will try to post one of these everyweek, starting now (last week of October 2021).
-To help achieve this, I created a python script that automaticly create a post with some template text.
-import datetime import calendar import os def getSundayDate(weekday, date): switcher = { &amp;#34;Monday&amp;#34;: 1, &amp;#34;Tuesday&amp;#34;: 2, &amp;#34;Wednesday&amp;#34;: 3, &amp;#34;Thursday&amp;#34;: 4, &amp;#34;Friday&amp;#34;: 5, &amp;#34;Saturday&amp;#34;: 6, &amp;#34;Sunday&amp;#34;: 0 } difference = switcher.</description>
+      <description>Curated selection Intresting articles When it comes to solar farms, sheep are great groundskeepers USDA funds project to build new group in support of solar grazing. https://arstechnica.com/science/2021/10/shepherds-can-cash-in-on-their-sheep-grazing-around-solar-panels/
+Bounty hunter Spike Spiegel is back on the hunt in Cowboy Bebop trailer &amp;ldquo;If the cops and the bounty hunters don&amp;rsquo;t get you, the Syndicate will.&amp;rdquo; https://arstechnica.com/gaming/2021/10/a-trio-of-space-cowboys-saddle-up-for-adventure-in-official-cowboy-bebop-trailer/
+Inspiring videos Joma Tech - 10 years of coding in 13 minutes
+Joma Tech is a really funny youtuber that makes content about tech and programming.</description>
     </item>
     
   </channel>
