@@ -50,6 +50,15 @@ To help achieve this, I created a python script that automaticly create a post w
 import datetime import calendar import os def getSundayDate(weekday, date): switcher = { &amp;#34;Monday&amp;#34;: 1, &amp;#34;Tuesday&amp;#34;: 2, &amp;#34;Wednesday&amp;#34;: 3, &amp;#34;Thursday&amp;#34;: 4, &amp;#34;Friday&amp;#34;: 5, &amp;#34;Saturday&amp;#34;: 6, &amp;#34;Sunday&amp;#34;: 0 } difference = switcher.</description>
     </item>
     
+    <item>
+      <title>Projects</title>
+      <link>https://jpssoares.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jpssoares.github.io/projects/</guid>
+      <description>projects</description>
+    </item>
+    
     
   </channel>
 </rss>
