@@ -10,51 +10,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Feb 2022 17:28:10 +0000</lastBuildDate><atom:link href="https://jpssoares.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 13:44:14 +0100</lastBuildDate><atom:link href="https://jpssoares.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Weekly Rundown 4</title>
-      <link>https://jpssoares.github.io/posts/weekly4/</link>
-      <pubDate>Tue, 01 Feb 2022 17:28:10 +0000</pubDate>
+      <title>Using LLMs for Intent Detection</title>
+      <link>https://jpssoares.github.io/posts/conversational_agent_intent_detector/using_llms_for_intent_detection/</link>
+      <pubDate>Mon, 31 Jul 2023 13:44:14 +0100</pubDate>
       
-      <guid>https://jpssoares.github.io/posts/weekly4/</guid>
-      <description>Curated selection Intresting articles Facebook loses users for first time ever, market cap drops by $200 billion Meta’s earnings call revealed bad news buried within bad news. The market did not react kindly to the news. Meta’s stock has taken a massive hit and is currently trading down around 24 percent below yesterday’s close, wiping around $200 billion off its market cap.
-https://arstechnica.com/tech-policy/2022/02/facebook-loses-users-for-first-time-ever-market-cap-drops-by-200b/
-Article photo
-In the Joe Rogan debate, Spotify is acting like a spectator rather than a player In many ways, what Spotify is grappling with right now is the same thing social media platforms like Facebook and Twitter have had to confront over the last five years.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Rundown 3</title>
-      <link>https://jpssoares.github.io/posts/weekly3/</link>
-      <pubDate>Sat, 29 Jan 2022 17:28:10 +0000</pubDate>
-      
-      <guid>https://jpssoares.github.io/posts/weekly3/</guid>
-      <description>Curated selection Intresting articles Snap is finally profitable Snapchat has more users than ever. Nearly five years after going public, Snap is finally profitable. The company shared the milestone in its fourth-quarter earnings release, where it reported $23 million in positive net income.
-https://www.engadget.com/snap-q4-2021-earnings-230605242.html Why gamers hate crypto, and music fans don’t The very different reactions that two different types of fandoms are having to blockchain-based products — and whether that tells us anything about what average people might actually want out of crypto.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Rundown 2</title>
-      <link>https://jpssoares.github.io/posts/weekly2/</link>
-      <pubDate>Tue, 23 Nov 2021 09:56:44 +0000</pubDate>
-      
-      <guid>https://jpssoares.github.io/posts/weekly2/</guid>
-      <description>Curated selection Inspiring videos Can GitHub Copilot center a div?
-A honest overview of the new and revolutionary technology created by Github to help programmers code using AI.
-I Put the Dislike Count BACK on my Channel
-&amp;ldquo;I&amp;rsquo;m not a fan of YouTube removing the dislike count from all videos, so I decided to put the discount like back on my own channel with a little bit of code&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>Weekly Rundown 1</title>
-      <link>https://jpssoares.github.io/posts/weekly1/</link>
-      <pubDate>Wed, 27 Oct 2021 17:07:58 +0100</pubDate>
-      
-      <guid>https://jpssoares.github.io/posts/weekly1/</guid>
-      <description>Curated selection Intresting articles When it comes to solar farms, sheep are great groundskeepers USDA funds project to build new group in support of solar grazing. https://arstechnica.com/science/2021/10/shepherds-can-cash-in-on-their-sheep-grazing-around-solar-panels/
-Bounty hunter Spike Spiegel is back on the hunt in Cowboy Bebop trailer &amp;ldquo;If the cops and the bounty hunters don&amp;rsquo;t get you, the Syndicate will.&amp;rdquo; https://arstechnica.com/gaming/2021/10/a-trio-of-space-cowboys-saddle-up-for-adventure-in-official-cowboy-bebop-trailer/
-Inspiring videos Joma Tech - 10 years of coding in 13 minutes
-Joma Tech is a really funny youtuber that makes content about tech and programming.</description>
+      <guid>https://jpssoares.github.io/posts/conversational_agent_intent_detector/using_llms_for_intent_detection/</guid>
+      <description>Introduction The use of LLMs in the creation of chatbots is old news. However, there are more use for LLMs than text generation in the context of the development of conversational agents. One of the main challenges of creating a conversational agent is text classification for intent detection. With the use of models, such as OpenAi&amp;rsquo;s GPT3.5 or Google&amp;rsquo;s Palm2, this task becomes trivial.
+Conversational agent framework The difference between a chatbot(e.</description>
     </item>
     
     <item>
