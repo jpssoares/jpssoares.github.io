@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Jul 2023 13:44:14 +0100</lastBuildDate><atom:link href="https://jpssoares.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 16:11:17 +0100</lastBuildDate><atom:link href="https://jpssoares.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flask Chatbot With Extra Feautures</title>
+      <link>https://jpssoares.github.io/posts/flask-chatbot-with-extra-feautures/</link>
+      <pubDate>Sun, 10 Sep 2023 16:11:17 +0100</pubDate>
+      
+      <guid>https://jpssoares.github.io/posts/flask-chatbot-with-extra-feautures/</guid>
+      <description>Introduction Recently, I used Streamlit to create a chatbot for an application. The use of components makes it really efficient to create simple applications, but I felt like whenever I wanted to customise more things got complicated. When using the st-chat component, I could not add quick reply buttons or a image-carousel to the bot&amp;rsquo;s replies.
+So instead, I created a similar chatbot using Flask. I looked around to see if i could find some code for a chatbot UI in flask and I found this project by binary-hood.</description>
+    </item>
+    
     <item>
       <title>Using LLMs for Intent Detection</title>
       <link>https://jpssoares.github.io/posts/conversational_agent_intent_detector/</link>
