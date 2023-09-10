@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jpssoares.github.io/tags/flask/</loc>
+    <lastmod>2023-09-10T16:11:17+01:00</lastmod>
+  </url><url>
     <loc>https://jpssoares.github.io/posts/flask-chatbot-with-extra-feautures/</loc>
+    <lastmod>2023-09-10T16:11:17+01:00</lastmod>
+  </url><url>
+    <loc>https://jpssoares.github.io/tags/gpt/</loc>
     <lastmod>2023-09-10T16:11:17+01:00</lastmod>
   </url><url>
     <loc>https://jpssoares.github.io/</loc>
@@ -10,6 +16,18 @@
   </url><url>
     <loc>https://jpssoares.github.io/posts/</loc>
     <lastmod>2023-09-10T16:11:17+01:00</lastmod>
+  </url><url>
+    <loc>https://jpssoares.github.io/tags/python/</loc>
+    <lastmod>2023-09-10T16:11:17+01:00</lastmod>
+  </url><url>
+    <loc>https://jpssoares.github.io/tags/</loc>
+    <lastmod>2023-09-10T16:11:17+01:00</lastmod>
+  </url><url>
+    <loc>https://jpssoares.github.io/tags/ai/</loc>
+    <lastmod>2023-07-31T13:44:14+01:00</lastmod>
+  </url><url>
+    <loc>https://jpssoares.github.io/tags/llms/</loc>
+    <lastmod>2023-07-31T13:44:14+01:00</lastmod>
   </url><url>
     <loc>https://jpssoares.github.io/posts/conversational_agent_intent_detector/</loc>
     <lastmod>2023-07-31T13:44:14+01:00</lastmod>
@@ -19,7 +37,5 @@
     <loc>https://jpssoares.github.io/projects/</loc>
   </url><url>
     <loc>https://jpssoares.github.io/search/</loc>
-  </url><url>
-    <loc>https://jpssoares.github.io/tags/</loc>
   </url>
 </urlset>

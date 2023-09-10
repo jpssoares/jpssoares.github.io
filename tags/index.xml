@@ -9,6 +9,52 @@
       <link>https://jpssoares.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://jpssoares.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Sep 2023 16:11:17 +0100</lastBuildDate><atom:link href="https://jpssoares.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flask</title>
+      <link>https://jpssoares.github.io/tags/flask/</link>
+      <pubDate>Sun, 10 Sep 2023 16:11:17 +0100</pubDate>
+      
+      <guid>https://jpssoares.github.io/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPT</title>
+      <link>https://jpssoares.github.io/tags/gpt/</link>
+      <pubDate>Sun, 10 Sep 2023 16:11:17 +0100</pubDate>
+      
+      <guid>https://jpssoares.github.io/tags/gpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://jpssoares.github.io/tags/python/</link>
+      <pubDate>Sun, 10 Sep 2023 16:11:17 +0100</pubDate>
+      
+      <guid>https://jpssoares.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://jpssoares.github.io/tags/ai/</link>
+      <pubDate>Mon, 31 Jul 2023 13:44:14 +0100</pubDate>
+      
+      <guid>https://jpssoares.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLMs</title>
+      <link>https://jpssoares.github.io/tags/llms/</link>
+      <pubDate>Mon, 31 Jul 2023 13:44:14 +0100</pubDate>
+      
+      <guid>https://jpssoares.github.io/tags/llms/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
